@@ -1,0 +1,17 @@
+Source: wasta-custom-ind
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: wasta-custom-ind
+Architecture: any
+Depends: acidrip, audacity, fonts-sil-annapurnasil, ibus-kmfl, kmfl-keyboard-indic, lame, libmp3lame0, ttf-indic-fonts, ttf-indic-fonts-core, wasta-base-setup, ${shlibs:Depends}, ${misc:Depends}
+Description: wasta-Linux Indic customization
+ Sets up machine for wasta-Linux Indic use.
+ This includes Indic fonts and keyboards to be used with iBus.
+ BEN, DEV, GUR (Punjabi), GUJ, KAN, MAL, ORI, TAM, and TEL.
+ Another recommended package is wasta-resources-ind which contains
+ multiple resources for language and community development.
+

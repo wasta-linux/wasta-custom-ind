@@ -1,0 +1,17 @@
+wasta-custom-ind (1.0.0) precise; urgency=medium
+
+  * Initial GitHub / Launchpad commit
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 14 Oct 2015 16:29:27 +0300
+
+wasta-custom-ind (0.1.1) precise; urgency=low
+
+  * Removed artha and added a few more fonts. Mainly for testing purposes
+
+ -- Mark Penny <jampakpenny@gmail.com>  Thu, 24 Apr 2014 10:38:49 +0530
+
+wasta-custom-ind (0.1.0) precise; urgency=low
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Thu, 17 Apr 2014 14:59:52 -0500
